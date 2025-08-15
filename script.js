@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', function() {
         citySelect.appendChild(option);
     });
 
+    // Añadir evento al botón para cargar datos
     loadDataButton.addEventListener('click', () => {
         const city = citySelect.value;
         const startDate = document.getElementById('start-date').value;
