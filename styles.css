@@ -1,11 +1,11 @@
-/* Estilo general del cuerpo */
+/* General body styles */
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 20px;
 }
 
-/* Estilo del encabezado */
+/* Header styles */
 header {
     background-color: #4CAF50;
     color: white;
@@ -13,12 +13,12 @@ header {
     text-align: center;
 }
 
-/* Controles del gráfico */
+/* Chart controls */
 #controls {
     margin-bottom: 20px;
 }
 
-/* Estilo del gráfico */
+/* Chart styles */
 #chart {
     width: 100%;
     height: 500px;
